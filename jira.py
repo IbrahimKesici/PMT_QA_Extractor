@@ -1,5 +1,4 @@
 
-
 class JiraIssue():
     counter = 1
     def __init__(self, key, location, reviewerEmail):
